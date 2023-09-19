@@ -1,7 +1,7 @@
 Limonata tarifi
 1- limon
 2- su
-3- seker
-4- nane
-5- bal
-6- karpuz
+3- nane
+4- bal
+5- karpuz
+6- istenen meyveler eklenebilir
